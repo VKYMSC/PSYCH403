@@ -4,9 +4,9 @@ print(5/2)
 print(5.0/2.0)
 
 ## Question 2:
-print(1%2)
-print(3%5)
-print(7%3)
+print(1% 2)
+print(3% 5)
+print(7% 3)
 
 ##Question 3:
 print(1**3)
