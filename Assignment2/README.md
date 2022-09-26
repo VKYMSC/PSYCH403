@@ -11,11 +11,11 @@ This is my set of answers to Assignment 1:
 (3) ** is the exponentiation opertator and gets the exponential result of the first number. For example: 1** 3= 1* 1* 1. <br /> // is the floor division which round to the nearest smallest integer. For example: 1//3 = 0. <br />
 (4) The python follows the order of operations. As in the format "a+b+c*d/e", python calcuates multiplication and division first, and addition next. 
 
-3. Variable exercises [yourname.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment2/yourname.py). 
+3. Variable exercises [yourname.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment2/yourname.py). <br />
 (2) No varables showed up. Becasue I didn't "print" anything.  <img width="593" alt="image" src="https://user-images.githubusercontent.com/43455460/192169676-cb035806-6eb6-44f4-b602-0cbebaa7707b.png"> <br />
-(3) No repeated letters in my name: <img width="593" alt="image" src="https://user-images.githubusercontent.com/43455460/192169764-6077ebba-d3b4-48b8-a993-583cefbf6e16.png">
+(3) No repeated letters in my name: <br /><img width="593" alt="image" src="https://user-images.githubusercontent.com/43455460/192169764-6077ebba-d3b4-48b8-a993-583cefbf6e16.png"> <br />
 There's no probelm with two different variables having the same value. <br />
-(5) The X varibles changes and the other variables remains the same.<img width="593" alt="image" src="https://user-images.githubusercontent.com/43455460/192169904-732532ce-4cf3-438f-9363-d6a326041aed.png">
+(5) The X varibles changes and the other variables remains the same.<img width="593" alt="image" src="https://user-images.githubusercontent.com/43455460/192169904-732532ce-4cf3-438f-9363-d6a326041aed.png"> <br />
 (6) <img width="593" alt="image" src="https://user-images.githubusercontent.com/43455460/192171425-a11ec122-5115-4dd2-bdd1-6a7aba927d02.png">
     Changing the value of "letter1" does not change the value of "letterX". Because you just re-assign letter1's value to "z", and the "letterX" just copy the value of the original "letter1" and will not change to the new "letter1" value. Python varible assignment can be covered if you re-assigned the varibles with a new value; however, the "copied" value will remain the same. 
     
@@ -24,5 +24,19 @@ There's no probelm with two different variables having the same value. <br />
 (2) 5 and (3+2) are equivalent.<br />
 (3) <img width="593" alt="image" src="https://user-images.githubusercontent.com/43455460/192172919-cb247abb-4da3-49ed-a74a-43307d69803d.png">
 
-5. List exercises
-(1) 
+5. List exercises [List_exercises.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment2/List%20_exercises.py) <br />
+<img width="687" alt="image" src="https://user-images.githubusercontent.com/43455460/192174573-2557d709-a671-4af7-aefb-06bb83b30711.png">
+(1) The oddlist becomes a variable. <br />
+(3) The length of the list is 5. <br />
+(4)The type of oddlist is "list". <br />
+(6)The list prints the integers from 0 to 100. <br />
+
+6. Dictionary exercises [Dictionary_exercises.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment2/Dictionary_exercises.py)
+<img width="687" alt="image" src="https://user-images.githubusercontent.com/43455460/192174987-34f78fff-e29d-4f83-837f-0b33c9e84463.png"> <br />
+(3) Python determine the length of a dictionary by determining the number of paired objects in the dictionary.
+
+7. Array exercises [Array_exercises.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment2/Array_exercises.py)
+<img width="687" alt="image" src="https://user-images.githubusercontent.com/43455460/192176915-1a24fe64-340d-44ec-a04c-0bea81e99e87.png">
+(1) The result returns to a list of floats. <br />
+(2) The result returns to a list of strings. The results return to the type of last item in the arrary in Python. <br />
+(1-4) The results printed in the picture above.
