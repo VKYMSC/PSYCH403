@@ -1,4 +1,5 @@
 #List operations exercises
+import numpy as np
 numlist=[1,2,3]
 print(numlist*2) #print list twice
 
