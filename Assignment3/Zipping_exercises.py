@@ -2,8 +2,8 @@
 first_order=[]
 second_order=[]
 
-faces=['face1.png','face2.png','face3.png','face4.png','face5.png']*5
-houses=['house1.png','house2.png','house3.png','house4.png','house5.png']*5
+faces=['face1.png']*5+['face2.png']*5+['face3.png']*5+['face4.png']*5+['face5.png']*5
+houses=['house1.png']*5+['house2.png']*5+['house3.png']*5+['house4.png']*5+['house5.png']*5
 
 first_order.extend(faces)
 first_order.extend(houses)
@@ -21,6 +21,7 @@ second_order.extend(face_s)
 
 
 post_cues=['cue1']*50+['cue2']*50
+
 face_house = list(zip(first_order,second_order,post_cues))
 
 np.random.shuffle(face_house)
