@@ -9,6 +9,7 @@ This is my set of answers to Assignment 1:
 (2): Difference between multiplying lists and multiplying arrays: Mutiplying list is typing the whole list and mutiplying arryars is mutiplyong each object in the array.
 
 **Zipping exercises**: [Zipping_exercises.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment3/Zipping_exercises.py) <br />
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/43455460/193449632-1d01d5eb-1f5f-4fae-a98e-736240984eeb.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/43455460/193449487-63c34792-7e57-45c5-81ca-e07eab6bd45f.png">
 
 **Indexing_exercises**: [Indexing_exercises.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment3/Indexing_exercises.py) <br />
