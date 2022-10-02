@@ -1,4 +1,6 @@
-#Zipping exercises
+#Zipping exercise
+import numpy as np
+
 first_order=[]
 second_order=[]
 
