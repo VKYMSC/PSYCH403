@@ -19,8 +19,11 @@ second_order.extend(face_s)
 second_order.extend(house_s)
 second_order.extend(face_s)
 
-post_cues=['cue1']*50+['cue2']*50
 
+post_cues=['cue1']*50+['cue2']*50
+np.random.shuffle(first_order)
+np.random.shuffle(second_order)
+np.random.shuffle(post_cues)
 face_house = list(zip(first_order,second_order,post_cues))
 
 np.random.shuffle(face_house)
