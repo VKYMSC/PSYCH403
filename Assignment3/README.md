@@ -1,4 +1,4 @@
-This is my set of answers to Assignment 2:
+This is my set of answers to Assignment 3:
 
 **Variable operations exercises**: [Variable_operations_exercises.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment3/Variable_operations_exercises.py)
 <img width="666" alt="image" src="https://user-images.githubusercontent.com/43455460/193441159-ee4271d5-f4fc-469c-8f20-4de28866b8b7.png"> <br />
