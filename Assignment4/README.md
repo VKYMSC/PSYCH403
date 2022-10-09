@@ -18,15 +18,12 @@ The script does what I expected to do.
 **While loop exercises** [While_loop_exercises.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment4/While_loop_exercises.py)
 
 (1): <img width="530" alt="image" src="https://user-images.githubusercontent.com/43455460/194689899-1fe61d3b-a67c-416c-8174-4c6388891ba5.png"> <br />
-(2): <img width="530" alt="image" src="https://user-images.githubusercontent.com/43455460/194689422-20cb860c-8aae-42fa-8430-baee9d3d6e99.png"> <br />
-<img width="530" alt="image" src="https://user-images.githubusercontent.com/43455460/194689430-e4a30b8f-1435-42b4-858b-f73ade0e4b00.png"> <br />
+(2): <img width="530" alt="image" src="https://user-images.githubusercontent.com/43455460/194741422-b6144301-76ae-4164-be00-dceee19fa8ed.png"> <br />
 <img width="530" alt="image" src="https://user-images.githubusercontent.com/43455460/194689458-ae7f16eb-c8b4-4c32-af96-318de8852f69.png"> <br />
 If I entered "1" or "2" as response, the loop will stop and print noting. However, if i didn't enter anything or enter something besides "1" or "2", this loop is continued looping entil I stop the whole program. <br />
 
 (3): failsafe exercises <br /> 
-<img width="530" alt="image" src="https://user-images.githubusercontent.com/43455460/194690015-fa7ddc88-3776-43be-a80c-cd21ac42fe40.png"> <br />
-<img width="530" alt="image" src="https://user-images.githubusercontent.com/43455460/194690028-04a825c3-88fa-48cd-92b3-c77d35d4f6aa.png"> <br />
-<img width="530" alt="image" src="https://user-images.githubusercontent.com/43455460/194690054-ac4b0d18-53e5-4868-a428-ffbd903c2439.png">
+<img width="530" alt="image" src="https://user-images.githubusercontent.com/43455460/194741479-48243581-23a3-41f9-8034-9d84018a7054.png">
 
 
 
