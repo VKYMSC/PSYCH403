@@ -14,7 +14,7 @@ response = ""
 
 while response != '1' and response != '2':
    print("Showing an image")
-   if response == '1' and response == '2':
+   if response == '1' or response == '2':
        break
            
 #Question3
@@ -26,7 +26,7 @@ while response != '1' and response != '2':
    if failsafe == 5:
        break
    print(failsafe)
-   if response == '1' and response == '2':
+   if response == '1' or response == '2':
         respone = True
         break
 
