@@ -3,7 +3,7 @@
 ## Condition 1
 response = "1"
 
-if response =='1' or response == '2':
+if response == '1' or response == '2':
     print("OK")  
     if response =='1':
         print("Correct!")
@@ -18,7 +18,7 @@ else:
 ##Condition 2
 response = "2"
 
-if response =='1' or response == '2':
+if response == '1' or response == '2':
     print("OK")  
     if response =='1':
         print("Correct!")
@@ -32,7 +32,7 @@ else:
 ##Condition 3
 response = "NaN"
 
-if response =='1' or response == '2':
+if response == '1' or response == '2':
     print("OK")  
     if response =='1':
         print("Correct!")
@@ -46,7 +46,7 @@ else:
 ##Condition 4
 response = "sdjada" #print anything else
 
-if response =='1' or response == '2':
+if response == '1' or response == '2':
     print("OK")  
     if response =='1':
         print("Correct!")
