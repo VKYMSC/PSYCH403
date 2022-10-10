@@ -8,7 +8,7 @@ This is my set of answers to Assignment 4:
 <img width="536" alt="image" src="https://user-images.githubusercontent.com/43455460/194687539-e9a37208-cf2a-48a2-8784-467152fecbb3.png"> <br />
 The script does what I expected to do.
 
-**For loop exercises**[For loop_exercises.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment4/For%20_loop_exercises.py)
+**For loop exercises**[For_loop_exercises.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment4/For_loop_exercises.py)
 
 (1): <img width="536" alt="image" src="https://user-images.githubusercontent.com/43455460/194687610-e688efec-ce4d-4778-ad84-dd7f9381d7eb.png"> <br />
 (2): <img width="536" alt="image" src="https://user-images.githubusercontent.com/43455460/194687653-4374dda1-57ff-4c52-81f2-cc112f032d0d.png"> <br />
