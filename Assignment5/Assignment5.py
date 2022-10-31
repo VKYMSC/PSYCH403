@@ -48,8 +48,8 @@ nBlocks = 2
 
 #-stimulus names (and stimulus extensions, if images) *
 cats = ['faces']*10 
-imgs = ['im1.png', 'im2.png', 'im3.png', 'im4.png', 'im5.png','im6.png','im7',
-'im8','im9','im10']
+imgs = ['im1.png', 'im2.png', 'im3.png', 'im4.png', 'im5.png','im6.png','im7.png',
+'im8.png','im9.png','im10.png']
 
 #-stimulus properties like size, orientation, location, duration *
 stimSize = [200,200]
