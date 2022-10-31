@@ -73,9 +73,6 @@ for i in range(1,11):
     elif i == 10:
             pics.append('face' + str(i) + '.jpg')
 #print(pics)
-for pic in pics:
-    if pics == ims_in_dir:
-        print(str(pic) + ' was found!')
 
 ims_in_dir = sorted(os.listdir(image_dir))
 #os.listdir(image_dir)
