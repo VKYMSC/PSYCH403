@@ -134,8 +134,8 @@ stiPro = np.zeros(20)
 #=====================
 #-for loop for nBlocks *
 for block in range(nBlocks):
-    #-present block start message
     print('Welcome to Block' + str(block+1))
+    #-present block start message
     #-randomize order of trials here *
     np.random.shuffle(catimgs)
     #-reset response time clock here
