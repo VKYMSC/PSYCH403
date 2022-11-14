@@ -203,14 +203,14 @@ for block in range(nBlocks):
         #-flip window
         win.flip()
         #-wait time (stimulus duration)
-        core.wait(2)
+        event.waitKeys()
         
         #-draw image
         my_image.draw()
         #-flip window
         win.flip()
         #-wait time (stimulus duration)
-        core.wait(2)
+        event.waitKeys()
         
         #-draw end trial text
         endtrial_text = visual.TextStim(win, text=end_trial_msg)
@@ -218,7 +218,7 @@ for block in range(nBlocks):
         #-flip window
         win.flip()
         #-wait time (stimulus duration)
-        core.wait(2)
+        event.waitKeys()
         
 #======================
 # END OF EXPERIMENT
