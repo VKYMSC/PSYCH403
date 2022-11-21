@@ -44,5 +44,7 @@ Stimuli1time = 2.000185686018085 <br />
 Stimuli2time = 2.0005428610020317 <br />
 Block1 time = 13.631349985982524 <br />
 
-**Frame-based timing exercises**
+**Frame-based timing exercises** <br />
+1. [Frame-based_exercises(1).py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment%207/Frame-based_exercises(1).py) <br />
+2. [Frame-based_exercises(2).py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment%207/Frame-based_exercises(2).py)
 
