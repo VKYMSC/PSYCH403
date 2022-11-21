@@ -3,6 +3,7 @@ from psychopy import core
 import os
 from psychopy import visual, monitors, event
 import numpy as np
+import random
 
 mon = monitors.Monitor('myMonitor', width=38.1, distance=60)
 mon.setSizePix([1440,900])
@@ -47,6 +48,7 @@ for block in range(nBlocks):
     core.wait(1)
 
     for trial in range(nTrials):
+        random.shuffle(stims)
         my_image.image = os.path.join(image_dir,stims[trial])
         win.flip()
         core.wait(1)
