@@ -63,8 +63,14 @@ for block in range(nBlocks):
                 my_image.draw()
                 #-flip window
                 win.flip()
-        #-wait time (stimulus duration)
             imgEndTime = countdown_timer.getTime()
+            #-draw end trial text
+            endtrial_text = visual.TextStim(win, text=end_trial_msg)
+            endtrial_text.draw()
+            #-flip window
+            win.flip()
+            #-wait time (stimulus duration)
+            core.wait(1)
         else:  
             print("Using FrameTimer")
             for nFrames in range(totalFrames):
