@@ -32,6 +32,7 @@ nBlocks=2
 nTrials=3
 
 for block in range(nBlocks):
+    block_text = visual.TextStim(win, text=block_msg)
     blockTimer.reset()
     blockStart = blockTimer.getTime()
 
