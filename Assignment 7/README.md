@@ -33,4 +33,13 @@ One sample outcome: <br />
  Image Duration was 2.015009045979241 seconds <br />
  Image Duration was 2.01199798999005 seconds <br />
  
- 4. [Clock_exercises(4).py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment%207/Clock_exercises(4).py)
+ 4. [Clock_exercises(4).py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment%207/Clock_exercises(4).py) <br />
+One sample outcome: <br />
+Stimuli0time = 2.0030046900210436 <br />
+Stimuli1time = 2.0010733749950305 <br />
+Stimuli2time = 2.002011001983192 <br />
+Block0 time = 13.644242657988798 <br />
+Stimuli0time = 2.0019852879922837 <br />
+Stimuli1time = 2.000185686018085 <br />
+Stimuli2time = 2.0005428610020317 <br />
+Block1 time = 13.631349985982524 <br />
