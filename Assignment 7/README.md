@@ -12,7 +12,7 @@ One sample outcome: <br />
  Image Duration was 2.001628886006074 seconds <br />
  
  2. [Clock_exercises(2).py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment%207/Clock_exercises(2).py) <br />
- The ""clock_wait_timer" can be quite same percise as the previous one in 2 seconds. <br />
+ The ""clock_wait_timer" can be quite same percise as the in 2 seconds. <br />
  One sample outcome: <br />
  Image Duration was 2.001976728992304 seconds <br />
  Image Duration was 2.000847861985676 seconds <br />
