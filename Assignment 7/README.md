@@ -43,3 +43,6 @@ Stimuli0time = 2.0019852879922837 <br />
 Stimuli1time = 2.000185686018085 <br />
 Stimuli2time = 2.0005428610020317 <br />
 Block1 time = 13.631349985982524 <br />
+
+**Frame-based timing exercises**
+
