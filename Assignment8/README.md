@@ -15,6 +15,15 @@ As inclass mention, remove this part of exercises. <br />
 <img width="1343" alt="image" src="https://user-images.githubusercontent.com/43455460/204130937-6bd4fee8-87cb-46c1-a5f7-d64247059946.png">
 
 **Save csv exercises** <br />
-[Save_csv.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/Save_csv.py)
-[Assignment8.csv](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/Assignment8.csv)
+[Save_csv.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/Save_csv.py) <br />
+[Assignment8.csv](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/Assignment8.csv) <br />
+
+**Save JSON exercises** <br />
+[Save_JSON.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/Save_JSON.py)<br />
+[savejson_Assignment8_block0.txt](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/savejson_Assignment8_block0.txt) <br />
+[savejson_Assignment8_block1.txt](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/savejson_Assignment8_block1.txt) <br />
+
+
+
+
 
