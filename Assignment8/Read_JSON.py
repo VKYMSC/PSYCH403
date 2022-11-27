@@ -86,7 +86,6 @@ for block in range(nBlocks):
 win.close()
 
 data_as_list = [prob, corr_resp, sub_resp, sub_acc, resp_time]
-print(data_as_list)
 
 with open(data_dir, 'w') as sub_data:
     fieldnames = ['block', 'trial', 'problem','corr_resp','sub_resp','sub_acc', 'resp_time']
@@ -97,7 +96,7 @@ with open(data_dir, 'w') as sub_data:
         data_as_dict = []
         for a,b,c,d,e,f,g in zip(blocks[block], trials[block], prob[block], corr_resp[block], sub_resp[block], sub_acc[block], resp_time[block]):
             data_as_dict.append({'block':a, 'trial':b, 'problem':c,'corr_resp':d,'sub_resp':e,'sub_acc':f, 'resp_time':g})
-        print(data_as_dict)
+        #print(data_as_dict)
         for iTrial in range(nTrials):
             data_writer.writerow(data_as_dict[iTrial])
 
