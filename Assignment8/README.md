@@ -24,6 +24,10 @@ As inclass mention, remove this part of exercises. <br />
 [savejson_Assignment8_block1.txt](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/savejson_Assignment8_block1.txt) <br />
 
 
+**Read JSON exercises** <br />
+[Read_JSON.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/Read_JSON.py) <br />
+[savejson_Assignment8](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/savejson_Assignment8) <br />
+<img width="574" alt="image" src="https://user-images.githubusercontent.com/43455460/204135144-59e1a677-0bc0-4653-8e0a-6d1697f2ccc8.png">
 
 
 
