@@ -108,6 +108,6 @@ acc_trials = df.loc[df['sub_acc'] == 1]
 print(acc_trials)
 print(len(acc_trials)/len(df['sub_acc']))
 
-without_respones = df.loc[df['sub_resp'] == -1] 
+without_respones = df.loc[df['sub_resp'] == 0] 
 print(without_respones)
 print(len(without_respones)/len(df['sub_resp']))
