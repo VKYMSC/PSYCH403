@@ -97,7 +97,6 @@ data_dir = os.path.join(main_dir,filename)
 #to save each data type individually with one block per row
 data_as_dict = [sub_resp, sub_acc, prob, corr_resp, resp_time]
 
-#4: mode='w' means 'write mode'. "sub_data" is arbitrary, but stay consistent
 with open(filename, 'w', newline='') as csvfile:
     fieldnames = ['Block', 'sub_resp', 'sub_acc', 'prob', 'corr_resp', 'resp_time']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
