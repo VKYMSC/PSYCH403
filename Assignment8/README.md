@@ -8,3 +8,13 @@ if we change the position of event.ClearEvents like the image below, the keys wi
 if we unindent the "if keys:" line like the pic below: it will not count every time the key is added, it will run through the whole 2 seconds and counts the total number of keys pressed in 2 second. <br /> <img width="693" alt="image" src="https://user-images.githubusercontent.com/43455460/204129435-74858d0a-6d04-4efa-802b-f0b8229634db.png">
 
 **Psychtoolbox keypress exercises** <br />
+As inclass mention, remove this part of exercises. <br />
+
+**Recording data exercises** <br />
+[Recording_data.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/Recording_data.py)
+<img width="1343" alt="image" src="https://user-images.githubusercontent.com/43455460/204130937-6bd4fee8-87cb-46c1-a5f7-d64247059946.png">
+
+**Save csv exercises** <br />
+[Save_csv.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/Save_csv.py)
+[Assignment8.csv](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/Assignment8.csv)
+
