@@ -84,28 +84,19 @@ for block in range(nBlocks):
         print('problem=', prob[block][trial], 'correct response=', 
               corr_resp[block][trial], 'subject response=',sub_resp[block][trial], 
               'subject accuracy=',sub_acc[block][trial], 'reaction time=', resp_time[block][trial])
-Save JSON
+   
+    filename = 'savejson_Assignment8'
+    main_dir = os.getcwd()
+    data_dir = os.path.join(main_dir,filename)
+    data_as_dict = [sub_resp, sub_acc, prob, corr_resp, resp_time]
+    with open(data_dir + '_block%i.txt'%block, 'w') as outfile:
+        json.dump(data_as_dict, outfile)
+
 print(sub_resp)
 print(sub_acc)
 print(prob)
 print(corr_resp)
 print(resp_time)
-
-filename = 'Assignment8.csv' 
-main_dir = os.getcwd()
-data_dir = os.path.join(main_dir,filename)
-#to save each data type individually with one block per row
-data_as_dict = [sub_resp, sub_acc, prob, corr_resp, resp_time]
-
-with open(filename, 'w', newline='') as csvfile:
-    fieldnames = ['Block', 'sub_resp', 'sub_acc', 'prob', 'corr_resp', 'resp_time']
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-
-    writer.writeheader()
-    writer.writerow({'Block':0, 'sub_resp':sub_resp[0], 'sub_acc':sub_acc[0], 'prob':prob[0],'corr_resp':corr_resp[0],'resp_time':resp_time[0]})
-    writer.writerow({'Block':1, 'sub_resp':sub_resp[1], 'sub_acc':sub_acc[1], 'prob':prob[1],'corr_resp':corr_resp[1],'resp_time':resp_time[1]})
-
-with open(data_dir + '_block%i.txt'%block, 'w') as outfile:
-        json.dump(data_as_dict, outfile)
+    
 
 win.close()
