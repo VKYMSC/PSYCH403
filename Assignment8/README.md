@@ -26,7 +26,7 @@ As inclass mention, remove this part of exercises. <br />
 
 **Read exercises** <br />
 [Read.py](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/Read.py) <br />
-[Assignment8](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/Assignment8.csv) <br />
+[Assignment8.csv](https://github.com/VKYMSC/PSYCH403/blob/main/Assignment8/Assignment8.csv) <br />
 <img width="574" alt="image" src="https://user-images.githubusercontent.com/43455460/204354929-241bc784-e4f1-40a6-8b6a-6ec782a6b7d4.png">
 
 
