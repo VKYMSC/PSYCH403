@@ -3,10 +3,9 @@ INTRODUCTION
 Name: Ruihan Weng
 Student ID: 1575866
 
-The experiment is designed to find the different between culture attention to the given events according to my Psych 341 class based on Dr. Chua et al. (2005)'s finding .
-And I'm aimed to find how Westerners or Easterner's culture background effect participant's focus to the main object or the surroundings (whether they see on the object first or the surroundings first)
+The experiment is designed to find the different between culture on attention to the given events, according to my Psych 341 class.
 Accoding to Chua et al.(2005), The Easterner’s will pay more attention to the surroundings and Westerners will pay more attention to the main object.
-
+I'm aimed to design the experiment to find how Westerners or Easterner's culture background effect participant's focus to the main object or the surroundings (whether they see on the object first or the surroundings first).
 Data is saved under file: dataFile
 '''
 
