@@ -7,6 +7,7 @@ The experiment is designed to find the different between culture attention to th
 And I'm aimed to find how Westerners or Easterner's culture background effect participant's focus to the main object or the surroundings (whether they see on the object first or the surroundings first)
 Accoding to Chua et al.(2005), The Easterner’s will pay more attention to the surroundings and Westerners will pay more attention to the main object.
 
+Data is saved under file: dataFile
 '''
 
 #=====================
