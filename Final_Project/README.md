@@ -8,7 +8,7 @@ I'm aimed to design the experiment to find how Westerners or Easterner's culture
 I'll collect participant's subject number, gender, age, and which type of culture background can be most closely describe where the participants were raised: Western or Eastern'. <br>
 
 Afther the experiment begins the participant will fill out the information and follow the instruction about each step.
-The main part of the experiment is consisted with 5 block and each block contains 6 trials. I'm adding my 6 stimuli inside the trial and set the very short automatic change time for each trial as 0.3s to make them combine and worked as a short video.
+The main part of the experiment is consisted with 5 block and each block contains 6 trials. The stimuli file(image) contains 6 images: a bird appears on different postion in the sky. I'm adding my 6 stimuli inside the trial and set the very short automatic change time for each trial as 0.3s to make them combine and worked as a short video. The partcipant will follow the instruction after the video ends and the reaction time is then measured.
 The participants will input letter 'B' if they notice the bird first during the "video" for each block; 'S' if they see sky first and 'A' if they see Bird and Sky at the same time.
 
 Each CSV file's title contains participant's number and which type of culture they select. Inside the file, the chart include: participant's number, main object in the video (bird), block number, what did participant input and the input reaction for each block.
