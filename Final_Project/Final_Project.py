@@ -34,10 +34,10 @@ image_dir = os.path.join(directory,'image')
 exp_info = {'Subject Number':'', 
             'Gender':('Female', 'Male', 'Others'),
             'Age': '',
-            'Which type of culture background can be mostly describe where you were raised?':('Western','Eastern')}
+            'Which type of culture background can be most closely describe where you were raised?':('Western','Eastern')}
 
 myDlg = gui.DlgFromDict(dictionary=exp_info) 
-filename = (str(exp_info['Subject Number']) + "_" +(str(exp_info['Which type of culture background can be mostly describe where you were raised?'])) + '_outputFile.csv')
+filename = (str(exp_info['Subject Number']) + "_" +(str(exp_info['Which type of culture background can be most closely describe where you were raised?'])) + '_outputFile.csv')
 
 # check the dialog box
 if exp_info['Age'].isdigit() == False: # enther an invalid age
@@ -165,7 +165,7 @@ for result in final_list:
     response_list.append(result["response"])
     reaction_time_list.append(result["reaction_time"])
 
-df = pd.DataFrame(data={"Subject Number": Subject_Number, "Main Object": "Bird", "block_num":block_num_list, "response":response_list, "reaction_time color":reaction_time_list})
+df = pd.DataFrame(data={"Subject Number": Subject_Number, "Main Object": "Bird", "block_num":block_num_list, "response":response_list, "reaction_time":reaction_time_list})
 # creat csv file for each paticipant and save each participants data into a file
 df.to_csv(os.path.join(data, filename), sep=',', index=False)
 
