@@ -175,6 +175,11 @@ df.to_csv(os.path.join(data, filename), sep=',', index=False)
 #======================
 # END OF EXPERIMENT
 #======================  
+end_text = visual.TextStim(win,text= "This is the end of this experiment, thanks for your participation!")
+end_text.draw()
+win.flip()
+core.wait(1)
+
 win.close()
 
 
