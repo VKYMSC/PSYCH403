@@ -27,6 +27,9 @@ data = os.path.join(directory, 'dataFile')
 if not os.path.exists(data):
     os.makedirs(data)
 image_dir = os.path.join(directory,'image')
+# check if files to be used during the experiment exist
+if not os.path.isdir(image_dir):
+    raise Exception("Could not find the path!")
 
 #=====================
 #COLLECT PARTICIPANT INFO
