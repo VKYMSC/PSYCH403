@@ -107,7 +107,7 @@ win.flip()
 event.waitKeys()
 
 #=====================
-#BLOCK SEQUENCE
+#BLOCK SEQUENCE (include shuffle the stims for different CONDITIONs)
 #=====================
 # begain the trail for each block
 for block in range(nBlocks):
@@ -115,7 +115,7 @@ for block in range(nBlocks):
     instructText.draw()
     win.flip()
     event.waitKeys()
-    #shuffle the stims
+    #shuffle the stims to 
     np.random.shuffle(stims)
     
     #=====================
